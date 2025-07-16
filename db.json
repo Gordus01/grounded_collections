@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Cyberpunk 2077",
       "price": 29990,
-      "imageUrl": "https://via.placeholder.com/300x400?text=Cyberpunk",
+      "imageUrl": "/images/cyberpunk.jpg",
       "rating": 4.5,
       "description": "RPG de mundo abierto futurista"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "name": "The Witcher 3",
       "price": 15490,
-      "imageUrl": "https://via.placeholder.com/300x400?text=Witcher",
+      "imageUrl": "/images/thewticher.jpg",
       "rating": 4.8,
       "description": "Aventura épica de Geralt de Rivia"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Elden Ring",
       "price": 42990,
-      "imageUrl": "https://via.placeholder.com/300x400?text=Elden+Ring",
+      "imageUrl": "/images/Elden Ring.jpg",
       "rating": 4.7,
       "description": "Juego de rol de acción en mundo abierto"
     }
