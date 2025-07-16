@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Cyberpunk 2077",
+      "price": 29990,
+      "imageUrl": "/images/cyberpunk.jpg",
+      "rating": 4.5,
+      "description": "Un RPG de mundo abierto ambientado en Night City"
+    },
+    {
+      "id": 2,
+      "name": "The Witcher 3: Wild Hunt",
+      "price": 15490,
+      "imageUrl": "/images/thewitcher.jpg",
+      "rating": 4.8,
+      "description": "Última aventura del brujo Geralt de Rivia"
+    },
+    {
+      "id": 3,
+      "name": "Elden Ring",
+      "price": 42990,
+      "imageUrl": "/images/eldenring.jpg",
+      "rating": 4.7,
+      "description": "Juego de rol de acción en un mundo de fantasía"
+    }
+    ]
+}
